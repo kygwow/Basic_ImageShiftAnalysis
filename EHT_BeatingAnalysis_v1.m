@@ -14,7 +14,7 @@
 clear 
 
 %input parameter
-vidObj=VideoReader('C:\Users\KUBOL_Kang\Google 드라이브\11_Lab_CTE\30_Analysis\10_YJ_EHT_Video\21.02.09 추가자료\4_D11_CMFB-3_2_x4001.mp4');
+vidObj=VideoReader('*****x4001.mp4');
 vidObj.CurrentTime=0;
 realFov=[2945,2945];%micron
 manualROI=1;
